@@ -6,3 +6,4 @@ En este archivo se documentarán buenas prácticas para trabajar con repositorio
 - Evitar subir archivos innecesarios al repositorio.
 ## Nuevas recomendaciones
 Los colaboradores deberán agregar recomendaciones adicionales.
+- Leer primero el README.md antes de iniciar cualquier  cambio. 
