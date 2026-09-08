@@ -3,5 +3,6 @@
 - Nombre: Luis Angel Alatorre Zenea
 ## Colaboradores
 Agrega tu nombre mediante un Pull Request.
+- Gutierrez Garcia Julio Augusto
 - Diego Camacho Guerrero
 - Hugo Damian Reynoso Nesme
